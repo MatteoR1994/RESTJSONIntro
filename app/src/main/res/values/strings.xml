@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RESTJSON Intro</string>
+    <string name="find_buttonString">CERCA</string>
+    <string name="inputHint">Inserisci una parola</string>
+</resources>
